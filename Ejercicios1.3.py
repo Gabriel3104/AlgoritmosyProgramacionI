@@ -1,25 +1,25 @@
-""" A) CalcularPerimetroRectangulo """
+#A) CalcularPerimetroRectangulo 
 def CalcularPerimetroRectangulo(base,altura):
     return base + altura * 2
 
 
 
 
-""" B) CalcularAreaRectangulo """
+#B) CalcularAreaRectangulo
 def CalcularAreaRectangulo(base,altura):
     return base * altura
 
 
 
 
-""" C) CalcularAreaRectangulo """
+#C) CalcularAreaRectangulo 
 def CalcularAreaRectangulo(Puntox1,Puntox2,Puntoy1,Puntoy2):
     return (Puntox2 - Puntox1) * (Puntoy2 - Puntoy1)
 
 
 
 
-""" D) CalcularPerimetroCirculo """
+#D) CalcularPerimetroCirculo
 import math
 
 def CalcularPerimetroCirculo(diametro):
@@ -28,7 +28,7 @@ def CalcularPerimetroCirculo(diametro):
 
 
 
-""" E) CalcularAreaCirculo """
+#E) CalcularAreaCirculo
 import math
 
 def CalcularAreaCirculo (radio):
@@ -37,7 +37,7 @@ def CalcularAreaCirculo (radio):
 
 
 
-""" F) CalcularVolumenEsfera """
+#F) CalcularVolumenEsfera
 import math 
 
 def CalcularVolumenEsfera(radio):
